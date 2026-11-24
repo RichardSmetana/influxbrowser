@@ -12,7 +12,7 @@ PHP-Oberfläche zum Lesen einer **InfluxDB 2**. Kein Composer, kein CDN, keine e
 
 Expert-Ansicht mit einer Serie aus dem Bucket `hof`:
 
-![Expert-Ansicht mit Temperatur über sieben Tage](docs/expert.png)
+![Expert-Ansicht mit Temperatur über sieben Tage](docs/expert.jpg)
 
 ## Funktionen
 
@@ -144,7 +144,7 @@ influxbrowser/
   lib/Influx.php      InfluxDB-Client
   lib/Totp.php        TOTP nach RFC 6238
   lib/Qr.php          Lokaler QR als SVG
-  docs/expert.png     Beispiel-Screenshot (Expert)
+  docs/expert.jpg     Beispiel-Screenshot (Expert)
   README.md           Englisch
   README.de.md        Deutsch
 ```

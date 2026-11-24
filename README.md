@@ -12,7 +12,7 @@ PHP front end for reading an **InfluxDB 2** instance. No Composer packages, no C
 
 Expert view with a series from the `hof` bucket:
 
-![Expert view showing temperature over seven days](docs/expert.png)
+![Expert view showing temperature over seven days](docs/expert.jpg)
 
 ## Features
 
@@ -144,7 +144,7 @@ influxbrowser/
   lib/Influx.php      InfluxDB client
   lib/Totp.php        RFC 6238 TOTP
   lib/Qr.php          Local QR SVG
-  docs/expert.png     Example screenshot (Expert)
+  docs/expert.jpg     Example screenshot (Expert)
   README.md           English
   README.de.md        German
 ```
