@@ -1,0 +1,6 @@
+/config.php
+/.idea/
+/.vscode/
+/*.log
+/data/*
+!/data/.gitkeep
