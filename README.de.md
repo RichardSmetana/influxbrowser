@@ -3,7 +3,7 @@
 [English](README.md)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RichardSmetana/influxbrowser/main/assets/logo.jpg" alt="Influx Browser" width="720">
+  <img src="https://cdn.jsdelivr.net/gh/RichardSmetana/influxbrowser@main/docs/logo.jpg" alt="Influx Browser" width="720">
 </p>
 
 PHP-Oberfläche zum Lesen einer **InfluxDB 2**. Kein Composer, kein CDN, keine externen Bibliotheken. Token, Passwort-Hash und optionaler TOTP-Schlüssel bleiben auf dem Server in `config.php`.
@@ -12,7 +12,7 @@ PHP-Oberfläche zum Lesen einer **InfluxDB 2**. Kein Composer, kein CDN, keine e
 
 Expert-Ansicht mit einer Serie aus dem Bucket `hof`:
 
-![Expert-Ansicht mit Temperatur über sieben Tage](https://raw.githubusercontent.com/RichardSmetana/influxbrowser/main/docs/expert.jpg)
+![Expert-Ansicht mit Temperatur über sieben Tage](https://cdn.jsdelivr.net/gh/RichardSmetana/influxbrowser@main/docs/expert.jpg)
 
 ## Funktionen
 
